@@ -2,6 +2,7 @@
 Usage: piku [Flag] [Prompt]
 
 Flags:
+
 -s, --shell                                        Generate and Execute shell commands. (Experimental) 
 -c, --code                                         Generate Code. (Experimental)
 -q, --quiet                                        Gives response back without loading animation
