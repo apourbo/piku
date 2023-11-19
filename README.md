@@ -50,8 +50,14 @@ See changelog of versions
 Update program 
 
 Examples:
+
+
 piku "why ima steal my heart💜?"
 
 piku -f
+
+
 piku -m
+
+
 piku -s "How to get back heart from my janu imaaa?"
